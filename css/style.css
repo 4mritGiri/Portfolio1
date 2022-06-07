@@ -217,7 +217,6 @@ ul{
     height: 20px;
     width: 40px;
     font-size: 23px;
-    color: var(--text-black-701);
     display: grid;
     place-items: center;
     margin: 20px 0
