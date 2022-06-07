@@ -276,6 +276,7 @@ ul{
 }
 .aside .nav li a.active{
 	color: var(--skin-color);
+	border-bottom: 2px solid var(--skin-black-700);
 }
 .aside .nav li a i{
 	margin-right: 15px;
@@ -285,6 +286,14 @@ ul{
 	min-height: 100vh;
 	display: flex;
 	color: var(--text-black-900);
+}
+.section-title h2 span{
+	font-family: 'Amita', cursive;
+	font-size: 40px;
+}
+.section-title h2 .it{
+	font-family: 'Clicker Script', cursive;
+	font-size: 40px;
 }
 .home .home-info{
 	flex: 0 0 60%;
