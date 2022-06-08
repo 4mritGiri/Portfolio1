@@ -58,8 +58,8 @@
 .style-switcher .colors span{
 	display: inline-block;
 	height: 25px;
-    width: 27px;
-    margin-bottom: 3px;
+    	width: 27px;
+    	margin-bottom: 3px;
 	border-radius: 50%;
 }
 .style-switcher .color-1{
